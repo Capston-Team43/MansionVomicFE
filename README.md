@@ -66,5 +66,6 @@ MANSION-VOMIC은 **신뢰와 의심이 교차하는 새로운 공포 경험**을
 [🔗데모 영상 바로보기](https://youtu.be/uMuQ0SY0r-U)
 
 ## 7. 참조
-프로젝트에 해당 레포지토리에 포함되지 않은 에셋을 사용하고 있습니다: 
-[Mansion Set - 유니티 에셋스토어](https://assetstore.unity.com/packages/3d/props/furniture/mansion-set-150953#releases)
+- 프로젝트에 해당 레포지토리에 포함되지 않은 에셋을 사용하고 있습니다.
+- 따라서, 본 프로젝트를 다운받는다고 해도, 해당 에셋을 구매하여 따로 설치하지 않는 이상은 활용이 불가능합니다.
+- 사용한 에셋은 다음과 같습니다: Mansion Set - 유니티 에셋스토어
